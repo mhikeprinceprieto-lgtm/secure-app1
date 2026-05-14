@@ -1,0 +1,10 @@
+secure-app/
+├─ app/
+│  └─ main.py
+├─ requirements.txt
+├─ Dockerfile
+├─ .github/
+│  └─ workflows/
+│     └─ devsecops-pipeline.yml
+├─ .semgrep.yml
+└─ README.md
